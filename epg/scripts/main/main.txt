@@ -1,3 +1,6 @@
+Starhub Plus
+https://xmltv.tvkaista.net/guides/starhubtvplus.com.xml
+
 astro.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml
 

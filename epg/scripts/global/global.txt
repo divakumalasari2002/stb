@@ -1,3 +1,5 @@
+Starhub Plus
+https://xmltv.tvkaista.net/guides/starhubtvplus.com.xml
 
 Trans
 https://xmltv.tvkaista.net/guides/cubmu.com.xml
@@ -26,9 +28,6 @@ https://www.bevy.be/bevyfiles/malaysiapremium2.xml
 rtmklik.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml
 
-starhubtv.xml
-https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml
-
 unifi_epg.xml
 https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml
 
@@ -47,12 +46,6 @@ https://i.mjh.nz/nzau/epg.xml
 singaporepremium.xml
 https://www.bevy.be/bevyfiles/singaporepremium.xml
 
-china.xml
-https://www.bevy.be/bevyfiles/china.xml
-
-hongkongpremium.xml
-https://www.bevy.be/bevyfiles/hongkongpremium.xml
-
 indiapremium1.xml
 https://www.bevy.be/bevyfiles/indiapremium1.xml
 
@@ -61,9 +54,6 @@ https://raw.githubusercontent.com/warningfm/v2/cloud/vidio.com.xml
 
 arabia.xml
 https://www.bevy.be/bevyfiles/arabia.xml
-
-Singtelepg.xml
-https://i.mjh.nz/Singtel/epg.xml
 
 spain.xml
 https://www.bevy.be/bevyfiles/spain.xml
@@ -85,13 +75,6 @@ https://www.bevy.be/bevyfiles/turkeypremium1.xml
 
 unitedstatespremium4.xml
 https://www.bevy.be/bevyfiles/unitedstatespremium4.xml
-
-china.xml
-https://www.bevy.be/bevyfiles/china.xml
-
-hongkongpremium.xml
-https://www.bevy.be/bevyfiles/hongkongpremium.xml
-
 arabia.xml
 https://www.bevy.be/bevyfiles/arabia.xml
 

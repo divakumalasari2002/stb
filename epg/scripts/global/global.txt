@@ -1,3 +1,6 @@
+Unifi
+https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml
+
 Starhub Plus
 https://xmltv.tvkaista.net/guides/starhubtvplus.com.xml
 
@@ -67,14 +70,9 @@ https://www.bevy.be/bevyfiles/unitedstatespremium1.xml
 useetv.xml
 https://raw.githubusercontent.com/warningfm/v2/cloud/useetv.xml
 
-turkey.xml
-https://www.bevy.be/bevyfiles/turkey.xml
-
-turkeypremium1.xml
-https://www.bevy.be/bevyfiles/turkeypremium1.xml
-
 unitedstatespremium4.xml
 https://www.bevy.be/bevyfiles/unitedstatespremium4.xml
+
 arabia.xml
 https://www.bevy.be/bevyfiles/arabia.xml
 
@@ -89,12 +87,6 @@ https://www.bevy.be/bevyfiles/unitedkingdom.xml
 
 unitedstatespremium1.xml
 https://www.bevy.be/bevyfiles/unitedstatespremium1.xml
-
-turkey.xml
-https://www.bevy.be/bevyfiles/turkey.xml
-
-turkeypremium1.xml
-https://www.bevy.be/bevyfiles/turkeypremium1.xml
 
 unitedstatespremium4.xml
 https://www.bevy.be/bevyfiles/unitedstatespremium4.xml

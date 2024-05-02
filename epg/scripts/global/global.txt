@@ -43,18 +43,6 @@ https://www.bevy.be/bevyfiles/canada.xml
 canadapremium.xml
 https://www.bevy.be/bevyfiles/canadapremium.xml
 
-china.xml
-https://www.bevy.be/bevyfiles/china.xml
-
-chinapremium.xml
-https://www.bevy.be/bevyfiles/chinapremium.xml
-
-chinapremium1.xml
-https://www.bevy.be/bevyfiles/chinapremium1.xml
-
-chinapremium2.xml
-https://www.bevy.be/bevyfiles/chinapremium2.xml
-
 france.xml
 https://www.bevy.be/bevyfiles/france.xml
 
@@ -66,12 +54,6 @@ https://www.bevy.be/bevyfiles/germanypremium2.xml
 
 hongkong.xml
 https://www.bevy.be/bevyfiles/hongkong.xml
-
-hongkongpremium.xml
-https://www.bevy.be/bevyfiles/hongkongpremium.xml
-
-hongkongpremium2.xml
-https://www.bevy.be/bevyfiles/hongkongpremium2.xml
 
 india.xml
 https://www.bevy.be/bevyfiles/india.xml
@@ -186,9 +168,6 @@ https://www.bevy.be/bevyfiles/sportspremium3.xml
 
 sweden.xml
 https://www.bevy.be/bevyfiles/sweden.xml
-
-taiwanpremium.xml
-https://www.bevy.be/bevyfiles/taiwanpremium.xml
 
 thailand.xml
 https://www.bevy.be/bevyfiles/thailand.xml
